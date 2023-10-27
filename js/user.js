@@ -11,3 +11,10 @@ const USER2 = {
 	mai: "asdfasdg@gmail.com"
 
 }
+
+const USER3 = {
+	name: "Juanito",
+	age: 34,
+	id: "#2356",
+	mai: "asdfjh@gmail.com"
+}
